@@ -9,7 +9,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 // export const homepageText = `<p>Stragglers Dynasty League Text</p>`;
 // export const homepageText = `Stragglers Dynasty League `;
 
-
+ 
 /*   STEP 3   */
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
