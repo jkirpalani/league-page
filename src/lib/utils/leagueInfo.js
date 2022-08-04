@@ -6,7 +6,7 @@ export const dues = 10; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keep
 
 /*   STEP 2   */
-// export const homepageText = `<p>Stragglers Dynasty League Text</p>`;
+export const homepageText = `<p>Stragglers Dynasty League Text yooo</p>`;
 // export const homepageText = `Stragglers Dynasty League `;
 
  
