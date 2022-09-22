@@ -244,10 +244,6 @@
 
         <p class="bio">{viewManager.bio}</p>
 
-        <h3>Team Philosophy</h3>
-        <p class="philosophy">{viewManager.philosophy}</p>
-    </div>
-
     {#await playerData}
         <!-- Do nothing -->
     {:then players}
